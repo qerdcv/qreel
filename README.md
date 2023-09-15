@@ -6,7 +6,7 @@ Tool to download reels from instagram by URL writen in go
 
 ### Installation
 ```shell
-go install github.com/qerdcv/qreel
+go install github.com/qerdcv/qreel@latest
 ```
 
 ### Usage
